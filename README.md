@@ -52,11 +52,11 @@ Input
 MRI brain image (JPG / PNG / JPEG)
 
 Output
-Predicted class (tumor type)
-Confidence score
-Grad-CAM heatmap visualization
+-Predicted class (tumor type)
+-Confidence score
+-Grad-CAM heatmap visualization
 
 Author
 
-Muskan Solanki
+## Muskan Solanki
 Data Science / Machine Learning Project
