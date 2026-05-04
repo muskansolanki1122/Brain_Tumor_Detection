@@ -56,7 +56,6 @@ Output
 -Confidence score
 -Grad-CAM heatmap visualization
 
-Author
-
-## Muskan Solanki
+## Author
+### Muskan Solanki
 Data Science / Machine Learning Project
